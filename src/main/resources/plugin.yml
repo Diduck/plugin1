@@ -2,8 +2,3 @@ name: Plugin1
 version: 1.0
 api-version: 1.19
 main: me.diatra.plugin1.Main
-commands:
-  broadcast:
-    description: Une commande qui envoie un message à tout le serveur
-    aliases:
-      - bc
